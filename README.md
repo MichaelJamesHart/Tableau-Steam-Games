@@ -1,6 +1,8 @@
 # Tableau-Steam-Games
+ Viewers should focus on the files "Tableau Steam Games Report" and "Tableau Steam Games Presenetation".
  
 This is a dataset of all video games sold on the popular digital game distribution platform Steam. The dataset was put together from information made publicly available by Valve Software, and contains data on game release dates, text descriptions of the game content, genres, reviews, developers, publishers, user-generated reviews, average playtimes, and number of owners.
+
 This dataset is limited to video game activity on Windows, Mac, and Linux systems, but provides much more fine-grain detail due to Steam’s in-built analytics. The visualizations created from this dataset would be useful for sales and marketing teams in the video game industry, investors who want to know which game developers/publishers are the most successful, and video game shoppers who are looking for suggestions for their next purchase. I used Voyant for my text analysis and Tableau for my graphs.
 
 Questions
