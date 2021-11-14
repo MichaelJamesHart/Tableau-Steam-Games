@@ -19,3 +19,13 @@ Of Interest to Video Game Shoppers:
 What games of a particular genre are popular and have mostly positive reviews?
 Which games are the most addictive and time-consuming?
 Is the average playtime for games distorted by a small number of obsessive gamers?
+
+![Profitably by Genere Time Series](https://github.com/MichaelJamesHart/Tableau-Steam-Games/blob/main/Charts-Data-and-Materials/Profitability%20Time%20Series.png)
+
+![Highly Rated RPGs](https://github.com/MichaelJamesHart/Tableau-Steam-Games/blob/main/Charts-Data-and-Materials/Highly-Rated%20RPGs.png)
+
+![Addictive Games](https://github.com/MichaelJamesHart/Tableau-Steam-Games/blob/main/Charts-Data-and-Materials/Addictions.png)
+
+![Most Successful Developers](https://github.com/MichaelJamesHart/Tableau-Steam-Games/blob/main/Charts-Data-and-Materials/Successful%20Developers.png)
+
+![Most Successful Publishers](https://github.com/MichaelJamesHart/Tableau-Steam-Games/blob/main/Charts-Data-and-Materials/Successful%20Publishers.png)
